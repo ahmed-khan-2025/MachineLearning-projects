@@ -28,3 +28,14 @@ Beskrivning av datasetet:
          title: Rubriken på artikeln  
          text: Fullständig nyhetstext  
          label: 0 = FAKE eller 1= REAL  
+# Diabetes
+## Problemformulering
+Syftet med detta projekt är att analysera patientdata och undersöka möjligheten att förutsäga risken för typ 2-diabetes. Målet är att skapa en grund för en modell som, baserat på demografiska och medicinska variabler, kan uppskatta risken för att en individ utvecklar sjukdomen.
+## Val av dataset
+Efter att ha undersökt tillgängliga öppna datakällor har jag valt att utgå från PIMA Indians Diabetes Dataset, som är allmänt använt inom medicinsk maskininlärning och finns tillgänglig via exempelvis UCI Machine Learning Repository och Kaggle.  
+diabetes.csv Dataset från Kaggle  
+(Källa: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
+Datasetinformation:  
+•	Antal rader (datapunkter): 768  
+•	Antal kolumner (attribut): 9  
+•	Målvariabel: Outcome (1 = diabetes, 0 = ingen diabetes)
