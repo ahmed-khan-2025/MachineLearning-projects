@@ -12,8 +12,8 @@ fake-or-real-news.csv Dataset från Kaggle
 (Källa: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news)
 Beskrivning av datasetet:
 •	Totalt antal rader: 6335     
-•	NaN-Värden : 0 
+•	NaN-Värden : 0
 •	Kolumner:
-    o	title: Rubriken på artikeln
-    o	text: Fullständig nyhetstext
-    o	label: FAKE eller REAL
+    	title: Rubriken på artikeln
+    	text: Fullständig nyhetstext
+    	label: FAKE eller REAL
