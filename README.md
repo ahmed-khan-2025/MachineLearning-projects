@@ -8,7 +8,6 @@ Syftet med detta projekt är att undersöka möjligheterna att automatiskt klass
 •	Output: Klassificering (Fake eller Real)
 ## Dataundersökning
 Valt dataset:
-One: 
 fake-or-real-news.csv Dataset från Kaggle
 (Källa: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news)
 Beskrivning av datasetet:
