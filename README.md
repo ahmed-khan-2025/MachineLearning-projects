@@ -10,10 +10,20 @@ Syftet med detta projekt är att undersöka möjligheterna att automatiskt klass
 Valt dataset:
 fake-or-real-news.csv Dataset från Kaggle
 (Källa: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news)
-Beskrivning av datasetet:
+Beskrivning av datasetet:\n
 •	Totalt antal rader: 6335
 •	NaN-Värden : 0
 •Kolumner:
     	title: Rubriken på artikeln
     	text: Fullständig nyhetstext
     	label: FAKE eller REAL
+Eller \n 
+WELFake_Dataset.csv Dataset från Kaggle
+(Källa: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
+Beskrivning av datasetet:
+•	Totalt antal rader: 72134   
+•	Nan-Värden : 597  
+•	Kolumner:
+o	title: Rubriken på artikeln
+o	text: Fullständig nyhetstext
+o	label: 0 = FAKE eller 1= REAL
