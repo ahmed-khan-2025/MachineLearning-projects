@@ -14,9 +14,9 @@ Beskrivning av datasetet:
 •	Totalt antal rader: 6335  
 •	NaN-Värden : 0  
 •   Kolumner:  
-        title: Rubriken på artikeln  
-        text: Fullständig nyhetstext  
-        label: FAKE eller REAL    
+        \ title: Rubriken på artikeln  
+        \ text: Fullständig nyhetstext  
+        \ label: FAKE eller REAL    
 
 Eller dataset:    
 WELFake_Dataset.csv Dataset från Kaggle  
@@ -25,6 +25,6 @@ Beskrivning av datasetet:
 •	Totalt antal rader: 72134   
 •	Nan-Värden : 597  
 •	Kolumner:  
-        title: Rubriken på artikeln  
-        text: Fullständig nyhetstext  
-        label: 0 = FAKE eller 1= REAL  
+        \ title: Rubriken på artikeln  
+        \ text: Fullständig nyhetstext  
+        \ label: 0 = FAKE eller 1= REAL  
